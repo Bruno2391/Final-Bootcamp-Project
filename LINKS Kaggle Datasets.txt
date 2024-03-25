@@ -1,0 +1,16 @@
+Datasets Kaggle:
+
+-World GDP Growth 1980-2023:
+https://www.kaggle.com/datasets/sazidthe1/world-gdp-growth
+
+
+-World GDP Per Capita 1980-2023:
+https://www.kaggle.com/datasets/malayvyas/world-gdp-forecast-2023
+
+
+-World GDP Per Capita PPP (Purchasing Power Parity) 1990-2019:
+https://www.kaggle.com/datasets/nitishabharathi/gdp-per-capita-all-countries
+
+
+-World GDP Per Capita vs Others: 
+https://www.kaggle.com/datasets/fernandol/countries-of-the-world
