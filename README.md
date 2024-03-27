@@ -55,4 +55,4 @@ Industry: Percentage of GDP from industry;
 Service: Percentage of GDP from services.
 
 This is the link for the Tableau Dashboards: 
-https://public.tableau.com/app/profile/bruno.fernandes7117/viz/final-bootcamp-projectWorldGDPTableauBrunoFernandes/FRONT?publish=yes 
+https://public.tableau.com/app/profile/bruno.fernandes7117/viz/final-bootcamp-projectWorldGDPTableauBrunoFernandes/END?publish=yes
